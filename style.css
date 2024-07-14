@@ -10,4 +10,21 @@ h3{
     text-align: center;
 }
 
- 
+ .one{
+    background-color: pink;
+    
+ }
+
+ .two{
+    text-align: center;
+ }
+
+ .three{
+    text-align: center;
+ }
+
+ .center{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: -1%;
+ }
